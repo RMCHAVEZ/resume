@@ -1,3 +1,3 @@
 /*
-$("#main").append([RACHAEL M CHAVEZ]);
+$("#main").append("RACHAEL M CHAVEZ");
  */
